@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31717.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson10-Practice2-OneArmedBandit", "Lesson10-Practice2-OneArmedBandit\Lesson10-Practice2-OneArmedBandit.csproj", "{45966805-C908-46D4-AC7C-3C5B1C496265}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45966805-C908-46D4-AC7C-3C5B1C496265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45966805-C908-46D4-AC7C-3C5B1C496265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45966805-C908-46D4-AC7C-3C5B1C496265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45966805-C908-46D4-AC7C-3C5B1C496265}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D531A67-42D0-47A1-BF17-CEBC03699AD3}
+	EndGlobalSection
+EndGlobal
